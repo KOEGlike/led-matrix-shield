@@ -1,5 +1,7 @@
 # An LED forearmband
 
+<img width="610" height="526" alt="image" src="https://github.com/user-attachments/assets/2a7f0681-ac96-4dae-a01b-9502da946125" />
+
 I couldn't come up with a better name 😭
 
 ## What is this and why???
