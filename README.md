@@ -1,4 +1,4 @@
 # led-matrix-shield
 this is a forearm band that has a led matrix
 <br>
-<img width="610" height="526" alt="image" src="https://github.com/user-attachments/assets/2a7f0681-ac96-4dae-a01b-9502da946125" />
+![PXL_20251021_070506585 MP](https://github.com/user-attachments/assets/caa00453-b758-4bee-86d1-13bc52c81211)
